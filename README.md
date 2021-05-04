@@ -8,3 +8,5 @@
 * Anderson Henrique Batista da Silva
 * Geraldo de Medeiros Galvão Neto
 * Saulo Alexandre de Barros
+
+## [Relatório](https://docs.google.com/document/d/1EQHv6IUyXNKunrXWNP_UOeeU_cnwW5uFtCViNqht9o8)
