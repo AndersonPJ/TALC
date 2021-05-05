@@ -5,9 +5,9 @@
 * Henrique Rebelo
 
 ## Alunos:
-* Anderson Henrique Batista da Silva <AHBS>
-* Geraldo de Medeiros Galvão Neto <GMGN>
-* Saulo Alexandre de Barros <SAB2>
+* Anderson Henrique Batista da Silva - AHBS
+* Geraldo de Medeiros Galvão Neto - GMGN
+* Saulo Alexandre de Barros - SAB2
 
 ## [Classe analizada](https://github.com/apache/log4j/blob/trunk/src/main/java/org/apache/log4j/net/ZeroConfSupport.java)
 
